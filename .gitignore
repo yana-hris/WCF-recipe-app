@@ -1,0 +1,24 @@
+# Ignore build output
+bin/
+obj/
+*.suo
+*.user
+*.cache
+*.pdb
+*.log
+*.tmp
+*.vs/
+.vscode/
+Debug/
+Release/
+
+# Ignore user-specific settings
+*.csproj.user
+*.csproj.DotSettings
+*.vspscc
+*.vssscc
+
+# Ignore generated files
+ServiceReferences/
+RecipeServiceProxy.cs
+App.config
