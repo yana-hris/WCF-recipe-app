@@ -1,6 +1,8 @@
 # Ignore build output
 bin/
 obj/
+**/bin/
+**/obj/
 *.suo
 *.user
 *.cache
@@ -18,7 +20,4 @@ Release/
 *.vspscc
 *.vssscc
 
-# Ignore generated files
-ServiceReferences/
-RecipeServiceProxy.cs
-App.config
+
