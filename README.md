@@ -29,9 +29,7 @@ cd WCF-recipe-app
 ## 📷 Screenshots
 | WCF Service Running | Client Fetching Recipes |
 |---------------------|------------------------|
-| [image](https://github.com/user-attachments/assets/e27f42ae-0f37-4dfb-a389-d21f7c448dad)
-()[image](https://github.com/user-attachments/assets/caecdc0a-ff0a-4333-a976-a5b557efcacb)
- |
+| [image](https://github.com/user-attachments/assets/e27f42ae-0f37-4dfb-a389-d21f7c448dad) | [image](https://github.com/user-attachments/assets/caecdc0a-ff0a-4333-a976-a5b557efcacb) |
 
 ## 🤝 Contributing
 Feel free to fork this repo and improve it! 🚀
